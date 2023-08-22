@@ -1,1 +1,1 @@
-REST API developed with Flask, which enables the storage and presentation of expense records. This API uses an HTTP POST request to record new expenses and an HTTP GET request to list the expenses recorded during the current month.
+API developed with Flask and SQLAlchemy, for the storage and presentation of expense records. This API uses an HTTP POST request to register new expenses and an HTTP GET request to list the recorded expenses, with a display filter for the current month.
